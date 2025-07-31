@@ -1,2 +1,3 @@
 # Mechanical-Designe
-Folder for mechanical designe (3D designe, Stress analisys)
+Folder for mechanical designe where you can find my personal designes
+on different disciplines Solid Design, Metal-Sheet, Surfaces, Simulations, Assmebly
